@@ -44,7 +44,7 @@ st.markdown("""
 st.markdown("""
 <div class="banner">
     <h1>🐋 MQTT Control - Dany 🌊</h1>
-    <p>Controla tu mundo IoT como una reina del océano 💙</p>
+    <p>FIND US IN THE WAVES 💙</p>
 </div>
 """, unsafe_allow_html=True)
 
